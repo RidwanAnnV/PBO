@@ -1,0 +1,4 @@
+A.Constructor adalah method khusus yang akan dijalankan secara otomatis pada saat sebuah objek dibuat (instansiasi), yakni ketika perintah “new” dijalankan.
+
+B.Destructor adalah method khusus yang dijalankan secara otomatis pada saat sebuah objek dihapus.
+
